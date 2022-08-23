@@ -11,7 +11,7 @@
     "dist"
   ],
   "dependencies": {
-    "casper-js-client-helper": "file:../client-helper",
+    "casper-js-client-helper": "github:dotoracle/casper-js-client-helper",
     "casper-js-sdk": "2.8.0"
   },
   "publishConfig": {
